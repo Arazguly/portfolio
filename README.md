@@ -12,7 +12,8 @@ Welcome to my portfolio website! 🚀 This project showcases my skills, projects
 - Any frameworks/libraries you used (e.g., React, Vue, etc.)  
 
 ## 📸 Screenshots  
-([Screen Shot Portfolio.png](https://github.com/Arazguly/portfolio/blob/main/Screen%20Shot%20Portfolio.png))
+([Screen Shot Portfolio.png](https://raw.githubusercontent.com/Arazguly/portfolio/main/Screen%20Shot%20Portfolio.png
+))
 
 ## 📄 Features  
 ✅ Responsive design  
