@@ -7,9 +7,7 @@ Welcome to my portfolio website! 🚀 This project showcases my skills, projects
 
 ## 🛠️ Technologies Used  
 - HTML  
-- CSS (or Tailwind CSS, Bootstrap, etc.)  
-- JavaScript  
-- Any frameworks/libraries you used (e.g., React, Vue, etc.)  
+- CSS (CSS, Bootstrap)  
 
 ## 📸 Screenshots  
 ![Screen Shot Portfolio.png](https://raw.githubusercontent.com/Arazguly/portfolio/main/Screen%20Shot%20Portfolio.png
