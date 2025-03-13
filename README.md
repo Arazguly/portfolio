@@ -12,7 +12,7 @@ Welcome to my portfolio website! 🚀 This project showcases my skills, projects
 - Any frameworks/libraries you used (e.g., React, Vue, etc.)  
 
 ## 📸 Screenshots  
-*()*  
+![Alt Screenshot](Screen Shot Portfolio.png)
 
 ## 📄 Features  
 ✅ Responsive design  
