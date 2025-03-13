@@ -1,12 +1,14 @@
 # portfolio
-                                ## Portfolio Website
+## Portfolio Website
 
-Welcome to my personal portfolio website! This site showcases my projects, skills, and experiences in web development.
+### Welcome to my personal portfolio website! This site showcases my projects, skills, and experiences in web development.
 
-Features
+#### Features
+
 Responsive design
 Projects section
-About me page
+
+##### About me page
 Contact form
 Tech Stack
 HTML, CSS, JavaScript
