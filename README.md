@@ -9,7 +9,7 @@ Welcome to my portfolio website! 🚀 This project showcases my skills, projects
 - HTML  
 - CSS (CSS, Bootstrap)  
 
-## 📸 Screenshots  
+## 📸 Screenshot
 ![Screen Shot Portfolio.png](https://raw.githubusercontent.com/Arazguly/portfolio/main/Screen%20Shot%20Portfolio.png
 )
 
