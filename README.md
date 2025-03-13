@@ -1,14 +1,26 @@
-# portfolio
-## Portfolio Website
+# 🌐 Personal Portfolio Website
 
-### Welcome to my personal portfolio website! This site showcases my projects, skills, and experiences in web development.
+Welcome to my portfolio website! 🚀 This project showcases my skills, projects, and experience in web development and technology.
 
-#### Features
+## 🔗 Live Demo  
+[Visit My Portfolio] https://arazguly.github.io/portfolio/
 
-Responsive design
-Projects section
+## 🛠️ Technologies Used  
+- HTML  
+- CSS (or Tailwind CSS, Bootstrap, etc.)  
+- JavaScript  
+- Any frameworks/libraries you used (e.g., React, Vue, etc.)  
 
-##### About me page
-Contact form
-Tech Stack
-HTML, CSS, JavaScript
+## 📸 Screenshots  
+*()*  
+
+## 📄 Features  
+✅ Responsive design  
+✅ Interactive UI/UX  
+✅ Project showcase  
+✅ Contact form   
+
+## 📌 Setup & Installation  
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/arazguly/portfolio.git
